@@ -11,8 +11,8 @@ import markdownToHtml from '@/utils/markdownToHtml';
 import { getAllPosts, getPostBySlug, getPagination } from '@/utils/api';
 
 export default function Post({ post, pagination }) {
-	const GITHUB_USERNAME = 'condinoaljoseph';
-	const GITHUB_REPO = 'aljoseph.co';
+	const GITHUB_USERNAME = 'joshboldt';
+	const GITHUB_REPO = 'joshboldt.me';
 	const GITHUB_URL = `https://github.com/${GITHUB_USERNAME}/${GITHUB_REPO}/edit/master/_posts/${post.slug}.md`;
 
 	return (

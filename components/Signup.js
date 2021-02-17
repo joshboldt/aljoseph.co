@@ -8,7 +8,7 @@ const Signup = () => {
 							Subscribe to the Newsletter
 						</h3>
 						<p className="leading-7 mb-5">
-							Subscribe to get my lates content via email.
+							Subscribe to get my latest content via email.
 						</p>
 						<div className="">
 							<svg

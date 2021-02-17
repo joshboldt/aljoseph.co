@@ -17,9 +17,9 @@ export default function Home({ posts }) {
 				<meta charSet="utf-8" />
 				<meta
 					name="Description"
-					content="Personal blog by Al Joseph Condino"
+					content="The personal blog of Josh Boldt"
 				></meta>
-				<title>aljoseph.co</title>
+				<title>joshboldt.me</title>
 			</Head>
 			<Container>
 				<Header />

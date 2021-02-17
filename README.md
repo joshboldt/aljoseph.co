@@ -1,4 +1,4 @@
-# aljoseph.co
+# joshboldt.me
 
 Personal blogs and portfolio. Just for fun and my hobby of coding. From static HTML site to client side rendered portfolio and finally using Nextjs.
 
@@ -9,7 +9,7 @@ I will make an archive of my portfolio history in this repo. I thinking of it. W
 Feel free to forked and clone this repository
 
 ```bash
-$ git clone git@github.com:condinoaljoseph/aljoseph.co.git
+$ git clone git@github.com:joshboldt/joshboldt.me.git
 $ cd aljoseph.co
 ```
 

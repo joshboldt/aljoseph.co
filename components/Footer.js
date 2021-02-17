@@ -5,7 +5,7 @@ const Footer = () => {
 		<footer className="mt-20 pt-7 text-xl">
 			<a
 				className="text-pink-700 dark:text-pink-300 shadow-link hover:shadow-none"
-				href="https://twitter.com/condino_aj"
+				href="https://twitter.com/joshboldt"
 				target="_blank"
 				rel="noopener"
 			>
@@ -14,21 +14,12 @@ const Footer = () => {
 			&bull;{' '}
 			<a
 				className="text-pink-700 dark:text-pink-300 shadow-link hover:shadow-none"
-				href="https://github.com/condinoaljoseph"
+				href="https://github.com/joshboldt"
 				target="_blank"
 				rel="noopener"
 			>
 				github
 			</a>{' '}
-			&bull;{' '}
-			<a
-				className="text-pink-700 dark:text-pink-300 shadow-link hover:shadow-none"
-				href="https://stackoverflow.com/users/9043355/elpmid"
-				target="_blank"
-				rel="noopener"
-			>
-				stack overflow
-			</a>
 		</footer>
 	);
 };

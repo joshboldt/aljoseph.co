@@ -19,23 +19,23 @@ const Aside = () => {
 			)}
 			<div className="flex mb-14 items-center text-lg">
 				<Image
-					src="/assets/author/aljoseph.jpg"
-					alt="Al Joseph Condino"
+					src="/assets/author/joshboldt_profile.jpg"
+					alt="Josh Boldt"
 					width={56}
 					height={56}
 					className=" rounded-full"
 				/>
 				<p className="ml-3.5 max-w-xs">
-					Personal blog by{' '}
+					The personal blog of{' '}
 					<a
 						className="text-pink-700 dark:text-pink-300 shadow-link hover:shadow-none"
-						href="https://twitter.com/condino_aj"
+						href="https://twitter.com/joshboldt"
 						target="_blank"
 						rel="noopener"
 					>
-						Al Joseph Condino
+						Josh Boldt
 					</a>
-					.<span className="block">I explain with words and code.</span>
+					.<span className="block">🏎 ☕️ 🥃 💻 · Data Engineer</span>
 				</p>
 			</div>
 		</aside>
